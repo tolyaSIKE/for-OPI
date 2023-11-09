@@ -5,6 +5,8 @@
 #include <iomanip> 
 #include "windows.h"
 
+/* Зміна коду файлу для лабораторної роботи №6 з предмету "Основи програмної інженерії"*/
+
 using namespace std;
 
 int main()
