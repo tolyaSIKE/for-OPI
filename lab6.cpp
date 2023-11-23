@@ -11,6 +11,7 @@ using namespace std;
 
 int main()
 {
+	<h1> ЗАГОЛОВОК </h1>
 	double a, b, h, y, x;
 	cout << "Enter [a; b], h" << endl;
 	cin >> a >> b >> h;
