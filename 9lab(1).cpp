@@ -7,6 +7,8 @@ using namespace std;
 int main()
 {
 	// Варіант номер 1
+
+	// Зміна коду файлу для 7 лабораторної роботи з предмету "Основи програмної інженерії"
 	srand(time(NULL));
 	const int n = 10;
 	int mas[n], sum=0, max, maxInd;
